@@ -638,4 +638,9 @@ footer {
     font-size: 2.5rem;
 }
 
-/* @media (max-width:) {} */
+@media(max-width:768) {
+    section{
+        padding: 0;
+        width: 100%;
+    }
+}
